@@ -1,0 +1,6 @@
+Kay has dont tc6
+
+Kay added tc to the smoke suite
+
+..
+  ..
